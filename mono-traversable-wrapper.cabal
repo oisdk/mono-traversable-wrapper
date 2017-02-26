@@ -1,8 +1,8 @@
 name:                mono-traversable-wrapper
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Wrapper providing Foldable instance for MonoFoldables.
 description:         Please see README.md
-homepage:            https://github.com/oisdk/mono-traversable-compat
+homepage:            https://github.com/oisdk/mono-traversable-wrapper
 license:             MIT
 license-file:        LICENSE
 author:              Donnacha Oisín Kidney
@@ -22,4 +22,4 @@ library
 
 source-repository head
   type:     git
-  location: https://github.com/oisdk/mono-traversable-compat
+  location: https://github.com/oisdk/mono-traversable-wrapper
